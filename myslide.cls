@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{myslide}[made by chenboshuo]
+\ProvidesClass{myslide}[2019/12/29 made by chenboshuo]
 
 \def\myclasstype{article}% make sure a default is defined
 \def\myclassoptions{a4paper,12pt} % 一般不加载
@@ -90,5 +90,9 @@
 % 矢量
 \renewcommand{\vec}[1]{\overrightarrow{#1}}
 % \renewcommand{\vec}[1]{\boldsymbol{#1}}
+
+% 微分命令
+  %% 参考 https://liam.page/2017/05/01/the-correct-way-to-use-differential-operator/
+\newcommand*{\dif}{\mathop{}\!\mathrm{d}}
 
 \endinput

@@ -10,7 +10,8 @@ siunitx, xkeyval.
 ## Reference
 -   [How can I set up my custom class to load a different class depending on the class option(s) passed?](https://tex.stackexchange.com/questions/173643/how-can-i-set-up-my-custom-class-to-load-a-different-class-depending-on-the-clas)
 -   [LaTeX options for kindle?](https://tex.stackexchange.com/questions/16735/latex-options-for-kindle/16737)
-
+-   [Convert beamer code to article / book code](https://tex.stackexchange.com/questions/219047/convert-beamer-code-to-article-book-code)
+-   [matze/mtheme](https://github.com/matze/mtheme)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
